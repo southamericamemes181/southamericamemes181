@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**southamericamemes181/southamericamemes181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My profile:
 
-Here are some ideas to get you started:
+@southamericamemes181
+Brazil
+GitHuber
 
-🔭 I’m currently working on Sprunkiwars and Incredi-Box April Fools 2026
-🌱 I’m currently learning about community scratch guidelines
-👯 I’m looking to collaborate on Rem's Modding Build
-🤔 I’m looking for help with Cocrea and Adacraft
-💬 Ask me about Computer Virus
-📫 How to reach me: stay on my house
-😄 Pronouns: he/him
-⚡ Fun fact: I get unblocked from Scratch 10/05/2025 at 12:16
--->
+About Me:
+
+I like Scratch, Incredibox Mods and more!
+
+What I'm Working On:
+
+Scratchbox:
+Bonus1 = https://turbowarp.org/5678
+
+The bonus starts with the singer singing and two dancers making breakdance, the singer sings a brazilian music and two breakdancers dancing, and showing Gobo singing with the singer, Gobo, on the magic carpet sings, and the bonus ends when Gobo makes his bass piano sound
+
+Gobo: The OWAKCX hair with gold T-Shirt
+Singer: The eyeglasses man with RGB clothes
+Two Dancers: The left dancer uses a black cap and the right dancer uses a purple cap and both of this dancers wears a rainbow clothes
