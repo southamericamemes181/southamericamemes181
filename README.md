@@ -1,22 +1,17 @@
 ## Hi there 👋
 
-My profile:
+## Profile
+Status: GitHuber
+Location: Brazil/South America
 
-@southamericamemes181
-Brazil
-GitHuber
+## Joined Bio
+Joined GitHub for the LeBeaBae's Repositories
 
-About Me:
+## Peoples I like
+@LeBeaBae: Incredibox Modder
+@Wisp3Abyss: A guy when want just peace, he don't likes when mention him
+@IncrediDexer: He has forgoted his password I think
+@ThebestTeam55: Incredibox Modder
 
-I like Scratch, Incredibox Mods and more!
-
-What I'm Working On:
-
-Scratchbox:
-Bonus1 = https://turbowarp.org/5678
-
-The bonus starts with the singer singing and two dancers making breakdance, the singer sings a brazilian music and two breakdancers dancing, and showing Gobo singing with the singer, Gobo, on the magic carpet sings, and the bonus ends when Gobo makes his bass piano sound
-
-Gobo: The OWAKCX hair with gold T-Shirt
-Singer: The RGB eyeglasses man
-Two Dancers: The left dancer uses a black cap and the right dancer uses a purple cap and both of this dancers wears a rainbow clothes
+## My languages
+HTML, C++, Python and Scratch
