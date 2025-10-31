@@ -15,3 +15,6 @@ Joined GitHub for the LeBeaBae's Repositories
 
 ## My languages
 HTML, C++, Python and Scratch
+
+## Description
+I don't like Scratch, the Scratch Team is crazy in me
