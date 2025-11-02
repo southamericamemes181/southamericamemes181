@@ -18,3 +18,6 @@ HTML, C++, Python and Scratch
 
 ## Description
 I don't like Scratch, the Scratch Team is crazy in me
+
+## Languages I know
+Python, Scratch, HTML, GitHub, Codespaces, JavaScript and C++
