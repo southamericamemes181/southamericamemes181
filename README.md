@@ -21,3 +21,6 @@ I don't like Scratch, the Scratch Team is crazy in me
 
 ## Languages I know
 Python, Scratch, HTML, GitHub, Codespaces, JavaScript and C++
+
+## My GitHub stats
+![Image](https://github.com/user-attachments/assets/d5ced833-c1b7-49f1-87e2-d3e5fdd310df)
