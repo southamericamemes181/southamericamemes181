@@ -26,3 +26,7 @@ I don't like Scratch, the Scratch Team is crazy in me
 
 ## My GitHub stats
 ![Image](https://github.com/user-attachments/assets/d5ced833-c1b7-49f1-87e2-d3e5fdd310df)
+
+## My trophies
+![download (7)](https://github.com/user-attachments/assets/c0931f00-3426-4ef4-a413-085b4f63f0d8)
+
