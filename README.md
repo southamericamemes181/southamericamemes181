@@ -22,7 +22,7 @@ Joined GitHub for the LeBeaBae's Repositories
 HTML, CSS, C++, JavaScript and Python
 
 ## Description
-I don't like Scratch, the Scratch Team is crazy in me
+I like Scratch sometimes
 
 ## My GitHub stats
 ![Image](https://github.com/user-attachments/assets/d5ced833-c1b7-49f1-87e2-d3e5fdd310df)
@@ -30,3 +30,5 @@ I don't like Scratch, the Scratch Team is crazy in me
 ## My trophies
 ![download (7)](https://github.com/user-attachments/assets/c0931f00-3426-4ef4-a413-085b4f63f0d8)
 
+## My badges
+![Auto Assign](https://github.com/Incredibox-Fanclub/demo-repository/actions/workflows/auto-assign.yml/badge.svg) ![Proof HTML](https://github.com/Incredibox-Fanclub/demo-repository/actions/workflows/proof-html.yml/badge.svg)
