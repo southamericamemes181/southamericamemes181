@@ -19,7 +19,7 @@ Joined GitHub for the LeBeaBae's Repositories
 @ThebestTeam55: Incredibox Modder
 
 ## My languages
-HTML, CSS, C++, JavaScript and Python
+HTML, CSS, C++, JavaScript, PenguinMod and Python
 
 ## Description
 I like Scratch sometimes
@@ -32,3 +32,6 @@ I like Scratch sometimes
 
 ## My badges
 ![Auto Assign](https://github.com/Incredibox-Fanclub/demo-repository/actions/workflows/auto-assign.yml/badge.svg) ![Proof HTML](https://github.com/Incredibox-Fanclub/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+## My socials
+[southamericamemes181's PenguinMod account](https://penguinmod.com/profile?user=southamericamemes181)
