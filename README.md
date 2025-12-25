@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 
 If you want to chat on my profile, [go here](https://github.com/southamericamemes181/Tunner-Team/issues/19)!
 ## Profile
@@ -35,3 +35,6 @@ I like Scratch sometimes
 
 ## My socials
 [southamericamemes181's PenguinMod account](https://penguinmod.com/profile?user=southamericamemes181)
+
+## Notes
+@Wisp3Abyss deleted all of his repositories instead of getting all private
